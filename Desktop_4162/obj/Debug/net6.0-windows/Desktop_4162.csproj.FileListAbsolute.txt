@@ -1,0 +1,82 @@
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\bin\Debug\net6.0-windows\Desktop_4162.exe
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\bin\Debug\net6.0-windows\Desktop_4162.deps.json
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\bin\Debug\net6.0-windows\Desktop_4162.runtimeconfig.json
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\bin\Debug\net6.0-windows\Desktop_4162.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\bin\Debug\net6.0-windows\Desktop_4162.pdb
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\obj\Debug\net6.0-windows\Desktop_4162.csproj.AssemblyReference.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\obj\Debug\net6.0-windows\AddStudentWindow.g.cs
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\obj\Debug\net6.0-windows\MainWindow.g.cs
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\obj\Debug\net6.0-windows\App.g.cs
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\obj\Debug\net6.0-windows\Desktop_4162_MarkupCompile.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\obj\Debug\net6.0-windows\Desktop_4162_MarkupCompile.lref
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\obj\Debug\net6.0-windows\App.baml
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\obj\Debug\net6.0-windows\AddStudentWindow.baml
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\obj\Debug\net6.0-windows\MainWindow.baml
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\obj\Debug\net6.0-windows\Desktop_4162.g.resources
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\obj\Debug\net6.0-windows\Desktop_4162.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\obj\Debug\net6.0-windows\Desktop_4162.AssemblyInfoInputs.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\obj\Debug\net6.0-windows\Desktop_4162.AssemblyInfo.cs
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\obj\Debug\net6.0-windows\Desktop_4162.csproj.CoreCompileInputs.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\obj\Debug\net6.0-windows\Desktop_4162.csproj.CopyComplete
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\obj\Debug\net6.0-windows\Desktop_4162.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\obj\Debug\net6.0-windows\refint\Desktop_4162.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\obj\Debug\net6.0-windows\Desktop_4162.pdb
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\obj\Debug\net6.0-windows\Desktop_4162.genruntimeconfig.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Assignment NEW\obj\Debug\net6.0-windows\ref\Desktop_4162.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\bin\Debug\net6.0-windows\Desktop_4162.exe
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\bin\Debug\net6.0-windows\Desktop_4162.deps.json
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\bin\Debug\net6.0-windows\Desktop_4162.runtimeconfig.json
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\bin\Debug\net6.0-windows\Desktop_4162.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\bin\Debug\net6.0-windows\Desktop_4162.pdb
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162.csproj.AssemblyReference.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\AddStudentWindow.g.cs
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\MainWindow.g.cs
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\App.g.cs
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162_MarkupCompile.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162_MarkupCompile.lref
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\App.baml
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\AddStudentWindow.baml
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\MainWindow.baml
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162.g.resources
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162.AssemblyInfoInputs.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162.AssemblyInfo.cs
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162.csproj.CoreCompileInputs.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162.csproj.CopyComplete
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\refint\Desktop_4162.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162.pdb
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162.genruntimeconfig.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\ref\Desktop_4162.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Desktop_4162\Desktop_4162\Desktop_4162\bin\Debug\net6.0-windows\DevExpress.Data.v22.2.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\bin\Debug\net6.0-windows\Desktop_4162.exe
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\bin\Debug\net6.0-windows\Desktop_4162.deps.json
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\bin\Debug\net6.0-windows\Desktop_4162.runtimeconfig.json
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\bin\Debug\net6.0-windows\Desktop_4162.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\bin\Debug\net6.0-windows\Desktop_4162.pdb
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\bin\Debug\net6.0-windows\DevExpress.Data.v22.2.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162.csproj.AssemblyReference.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\AddStudentWindow.g.cs
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\MainWindow.g.cs
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\App.g.cs
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162_MarkupCompile.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162_MarkupCompile.lref
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\App.baml
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\AddStudentWindow.baml
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\MainWindow.baml
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162.g.resources
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162.AssemblyInfoInputs.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162.AssemblyInfo.cs
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162.csproj.CoreCompileInputs.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162.csproj.CopyComplete
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\refint\Desktop_4162.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162.pdb
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\Desktop_4162.genruntimeconfig.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\exersize\Desktop_4162\Desktop_4162\Desktop_4162\Desktop_4162\obj\Debug\net6.0-windows\ref\Desktop_4162.dll

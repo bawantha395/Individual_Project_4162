@@ -1,0 +1,80 @@
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.csproj.AssemblyReference.cache
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\AddStudentWindow.g.cs
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\App.g.cs
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW_MarkupCompile.cache
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW_MarkupCompile.lref
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\bin\Debug\net6.0-windows\Assignment NEW.exe
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\bin\Debug\net6.0-windows\Assignment NEW.deps.json
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\bin\Debug\net6.0-windows\Assignment NEW.runtimeconfig.json
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\bin\Debug\net6.0-windows\Assignment NEW.dll
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\bin\Debug\net6.0-windows\Assignment NEW.pdb
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\App.baml
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\AddStudentWindow.baml
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.g.resources
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.AssemblyInfoInputs.cache
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.AssemblyInfo.cs
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.csproj.CoreCompileInputs.cache
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.csproj.CopyComplete
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.dll
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\refint\Assignment NEW.dll
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.pdb
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.genruntimeconfig.cache
+D:\Academic\Semester 3\EE3250-GUI Programming [C#]\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\ref\Assignment NEW.dll
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\bin\Debug\net6.0-windows\Assignment NEW.exe
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\bin\Debug\net6.0-windows\Assignment NEW.deps.json
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\bin\Debug\net6.0-windows\Assignment NEW.runtimeconfig.json
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\bin\Debug\net6.0-windows\Assignment NEW.dll
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\bin\Debug\net6.0-windows\Assignment NEW.pdb
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.csproj.AssemblyReference.cache
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\AddStudentWindow.g.cs
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW_MarkupCompile.cache
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW_MarkupCompile.lref
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\App.baml
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\AddStudentWindow.baml
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.g.resources
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.AssemblyInfoInputs.cache
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.AssemblyInfo.cs
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.csproj.CoreCompileInputs.cache
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.csproj.CopyComplete
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.dll
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\refint\Assignment NEW.dll
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.pdb
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.genruntimeconfig.cache
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\ref\Assignment NEW.dll
+C:\Users\Bawantha\Downloads\Telegram Desktop\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\bin\Debug\net6.0-windows\Assignment NEW.exe
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\bin\Debug\net6.0-windows\Assignment NEW.deps.json
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\bin\Debug\net6.0-windows\Assignment NEW.runtimeconfig.json
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\bin\Debug\net6.0-windows\Assignment NEW.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\bin\Debug\net6.0-windows\Assignment NEW.pdb
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.csproj.AssemblyReference.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\AddStudentWindow.g.cs
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\MainWindow.g.cs
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\App.g.cs
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW_MarkupCompile.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW_MarkupCompile.lref
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\App.baml
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\AddStudentWindow.baml
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\MainWindow.baml
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.g.resources
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.AssemblyInfoInputs.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.AssemblyInfo.cs
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.csproj.CoreCompileInputs.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.csproj.CopyComplete
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\refint\Assignment NEW.dll
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.pdb
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Assignment NEW.genruntimeconfig.cache
+H:\Ruh_eng_2020\Academic\semester3\gui\asignmnt\Assignment NEW (3)\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\ref\Assignment NEW.dll

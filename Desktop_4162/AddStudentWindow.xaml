@@ -1,0 +1,49 @@
+﻿<Window x:Class="Desktop_4162.AddStudentWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Desktop_4162" xmlns:local1="clr-namespace:Desktop_4162"
+        mc:Ignorable="d"
+        Title="{Binding Title,UpdateSourceTrigger=PropertyChanged}" Height="600" Width="1000">
+
+
+    <Window.DataContext>
+        <local:AddStudentVM/>
+    </Window.DataContext>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <Border CornerRadius="15" BorderThickness="4" Grid.ColumnSpan="2" BorderBrush="Black">
+            <Border.Background>
+                <SolidColorBrush Color="#FF09090A" Opacity="1"/>
+            </Border.Background>
+        </Border>
+
+        <StackPanel Width="900" Height="500" HorizontalAlignment="Left"
+            VerticalAlignment="Top" Orientation="Vertical" Grid.ColumnSpan="2" Margin="50,0,0,0">
+            <TextBlock Margin="20,35,5,5" Text="Enter the student details below." FontStyle="Italic" FontSize="14" Foreground="White" Height="37"/>
+            <TextBlock Text="First Name:" Margin="20,5,5,5" Foreground="#FFCEDCDC" FontStyle="Italic"/>
+            <TextBox Text="{Binding Firstname, UpdateSourceTrigger=PropertyChanged}" Margin="20,5,5,5" Grid.Column="1" Background="#FF2D3233" Foreground="White" BorderBrush="#FF808184"/>
+            <TextBlock Text="Last Name:" Margin="20,5,5,5" Grid.Row="1" Foreground="#FFCEDCDC" FontStyle="Italic"/>
+            <TextBox Text="{Binding Lastname, UpdateSourceTrigger=PropertyChanged}" Margin="20,5,5,5" Grid.Column="1" Background="#FF2D3233" Foreground="White" BorderBrush="#FF808184"/>
+            <TextBlock Text="Age:" Margin="20,5,5,5" Grid.Row="1" Foreground="#FFCEDCDC" FontStyle="Italic"/>
+            <TextBox Text="{Binding Age, UpdateSourceTrigger=PropertyChanged}" Margin="20,5,5,5" Grid.Row="1" Grid.Column="1" Background="#FF2D3233" Foreground="White" BorderBrush="#FF808184"/>
+            <TextBlock Text="DateOfBirth:" Margin="20,5,5,5" Grid.Row="1" Foreground="#FFCEDCDC" FontStyle="Italic"/>
+            <TextBox Text="{Binding Dateofbirth, UpdateSourceTrigger=PropertyChanged}" Margin="20,5,5,5" Grid.Row="1" Grid.Column="1" Foreground="White" Background="#FF2D3233" BorderBrush="#FF808184"/>
+            <TextBlock Text="GPA:" Margin="20,5,5,5" Grid.Row="1" Foreground="#FFCEDCDC" FontStyle="Italic"/>
+            <TextBox Text="{Binding Gpa, UpdateSourceTrigger=PropertyChanged}" Margin="20,5,5,5" Grid.Row="1" Grid.Column="1" Background="#FF2D3233" Foreground="White" BorderBrush="#FF808184"/>
+            <Button Content="Insert Picture" Width="100" HorizontalAlignment="Left" Command="{Binding UploadPhotoCommand}" Margin="20,5,5,5" Grid.Row="3" VerticalAlignment="Bottom" Grid.ColumnSpan="2" Background="#FFF7F7F7" Foreground="Black" BorderBrush="#FF289DA5" Click="Button_Click" Cursor="Hand"/>
+            <Image Height="40" HorizontalAlignment="Left" Width="100" VerticalAlignment="Top" Margin="120 12 0 0" Source="{Binding SelectedImage,UpdateSourceTrigger=PropertyChanged}" />
+
+            <Button Background="White" Content="Save" Command="{Binding SaveCommand}" Margin="400,5,400,5" Grid.Row="3" VerticalAlignment="Bottom" Grid.ColumnSpan="2" Foreground="Black" BorderBrush="#FF289DA5" Click="Button_Click_1" Cursor="Hand"/>
+            <Button Background="White" Content="Back" Command="{Binding SaveCommand}" Margin="400,5,400,5" Grid.Row="3" VerticalAlignment="Bottom" Grid.ColumnSpan="2" Foreground="Black" BorderBrush="#FF289DA5" Click="Button_Click_2" Cursor="Hand"/>
+
+
+        </StackPanel>
+
+    </Grid>
+</Window>
+
